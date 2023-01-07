@@ -123,7 +123,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://github.com/brantwalker/BJWwebsite"
+      url: "https://github.com/brantwalker/BJWwebsite/Files/CV_07_01_2023.pdf"
       download: false
       newPage: true
     socialLinks:
@@ -280,7 +280,7 @@ params:
         featuredLink:
           enable: true
           name: "Iowa Transcript"
-          url: "https://github.com/brantwalker/BJWwebsite"
+          url: "https://github.com/brantwalker/BJWwebsite/Files/IowaFinalTranscript.pdf"
           
       #     
       # - title: "High School"
