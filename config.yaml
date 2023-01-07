@@ -122,7 +122,7 @@ params:
     image: "/images/windwinter.jpg"
     button:
       enable: true
-      name: "Resume"
+      name: "CV"
       url: "https://github.com/brantwalker/BJWwebsite/Files/CV_07_01_2023.pdf"
       download: false
       newPage: true
